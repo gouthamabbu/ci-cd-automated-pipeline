@@ -10,8 +10,8 @@ This is a MVC architecture based application where controller returns a page wit
 Checkout the repo and move to the directory
 
 ```
-git
-cd 
+git clone https://github.com/gouthamabbu/ci-cd-automated-pipeline.git
+cd java-maven-sonar-argocd-helm-k8s-pipeline/spring-boot-app
 ```
 
 Execute the Maven targets to generate the artifacts
